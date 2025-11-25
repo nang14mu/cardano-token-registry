@@ -11,7 +11,7 @@ While this registry is limited in scope to handle native tokens only, it will al
 Use of this registry is subject to the [Registry Terms of Use](Registry_Terms_of_Use.md).           
 Use of the public API is subject to the [API Terms of Use](API_Terms_of_Use.md).
 
-## Process
+## Process.
 
 #### New registration
 
